@@ -1,0 +1,14 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 470
+ 1 string m_Name = "Daily0"
+ 0 int minPlayers = 1
+ 0 int questType = 0
+ 1 string name = "Kiss Raphael UwU"
+ 1 string description = "Win a game\n(At least 1 participant cuz we cool owo)"
+ 0 int questId = 0
