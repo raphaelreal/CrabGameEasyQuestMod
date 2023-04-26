@@ -4,4 +4,4 @@ This mod replaces every mod with the Quest "Kiss Raphael UwU" (Win a game at lea
 ![Screenshot](https://cdn.discordapp.com/attachments/1100552423199752286/1100813787705126912/Screenshot_646.png)
 
 ## How to use this?
-- Replace it with UABEA for exmaple.
+- Download sharedassets.0.assets from Releases Tab and replace it with your Crab Game.
